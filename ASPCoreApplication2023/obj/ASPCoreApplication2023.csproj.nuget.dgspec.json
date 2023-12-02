@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mahdi\\OneDrive\\Bureau\\Compte Rendu .NET\\ASPCoreApplication2023\\ASPCoreApplication2023\\ASPCoreApplication2023.csproj": {}
+    "C:\\Users\\users\\OneDrive\\Bureau\\Compte Rendu .NET\\ASPCoreApplication2023\\ASPCoreApplication2023\\ASPCoreApplication2023.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mahdi\\OneDrive\\Bureau\\Compte Rendu .NET\\ASPCoreApplication2023\\ASPCoreApplication2023\\ASPCoreApplication2023.csproj": {
+    "C:\\Users\\users\\OneDrive\\Bureau\\Compte Rendu .NET\\ASPCoreApplication2023\\ASPCoreApplication2023\\ASPCoreApplication2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahdi\\OneDrive\\Bureau\\Compte Rendu .NET\\ASPCoreApplication2023\\ASPCoreApplication2023\\ASPCoreApplication2023.csproj",
+        "projectUniqueName": "C:\\Users\\users\\OneDrive\\Bureau\\Compte Rendu .NET\\ASPCoreApplication2023\\ASPCoreApplication2023\\ASPCoreApplication2023.csproj",
         "projectName": "ASPCoreApplication2023",
-        "projectPath": "C:\\Users\\mahdi\\OneDrive\\Bureau\\Compte Rendu .NET\\ASPCoreApplication2023\\ASPCoreApplication2023\\ASPCoreApplication2023.csproj",
-        "packagesPath": "C:\\Users\\mahdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahdi\\OneDrive\\Bureau\\Compte Rendu .NET\\ASPCoreApplication2023\\ASPCoreApplication2023\\obj\\",
+        "projectPath": "C:\\Users\\users\\OneDrive\\Bureau\\Compte Rendu .NET\\ASPCoreApplication2023\\ASPCoreApplication2023\\ASPCoreApplication2023.csproj",
+        "packagesPath": "C:\\Users\\users\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\users\\OneDrive\\Bureau\\Compte Rendu .NET\\ASPCoreApplication2023\\ASPCoreApplication2023\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mahdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\users\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
